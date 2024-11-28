@@ -1,0 +1,2 @@
+What is a Data Preprocessing Pipeline?
+Data Preprocessing involves transforming and manipulating raw data to improve its quality, consistency, and relevance for analysis. It encompasses several tasks, including handling missing values, standardizing variables, and removing outliers. By performing these preprocessing steps, data professionals ensure that subsequent analysis is based on reliable and accurate data, leading to better insights and predictions.
